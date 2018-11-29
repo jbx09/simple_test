@@ -33,9 +33,9 @@ python3 leo.py --region <REGION> --stack-name <Stack_Name> --dbsnapshot-name <Le
 ```
 
 ## Guidelines for contribution
-Follow [!PEP8](https://www.python.org/dev/peps/pep-0008/) standard while coding
-Create your own branch while working on code changes.
-Merge to master only after code review approval.
+* Follow [PEP8](https://www.python.org/dev/peps/pep-0008/) standard while coding
+* Create your own branch while working on code changes.
+* Merge to master only after code review approval.
 
 ## Reporting Issues
 
