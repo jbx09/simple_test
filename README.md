@@ -2,7 +2,10 @@
 ...framework introduction...
 
 ## Documentation
-...details...
+
+
+## Setting up Environment
+
 
 ## Cloning and running the test suite
 
@@ -14,3 +17,7 @@ First, clone the repository:
 $ git clone git://github.com/platform_qa/main.git
 $ cd main
 ```
+
+## Reporting Issues
+
+
