@@ -1,11 +1,13 @@
 # Test Framework
-...framework introduction...
+This framework can be used to deploy and test various Mobileiron components like Leo, Polaris, Capella etc. This framework makes use of AWS Cloudformation service to deploy the component as a whole along with all its instances and containers.
 
 ## Documentation
 
 
 ## Setting up Environment
 
+1) Need to have Docker installed (OR)
+2) Need to have Python 3 and necessary packages in requirements.txt
 
 ## Cloning and running the test suite
 
