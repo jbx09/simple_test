@@ -1,5 +1,7 @@
-# Test Framework
+# Platform-qa
 This framework can be used to deploy and test various Mobileiron components like Leo, Polaris, Capella etc. This framework makes use of AWS Cloudformation service to deploy the component as a whole along with all its instances and containers.
+
+![Image](media/ds.jpg)
 
 ## Documentation
 
